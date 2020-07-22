@@ -14,3 +14,5 @@ sudo java -jar iot-kafka-producer-1.0.0.jar"
 ```
 
 The application requires configuration for kafka brokers addresses and zookeeper server address before sending data to the kafka cluster.
+
+The application requires kafka service up and running and topic created on the kafka cluster as in the "createTopic.sh" file. Also, the relevant scripts for configuring and running Kafka service are available on CROODaP repository.
