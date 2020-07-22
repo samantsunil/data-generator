@@ -1,4 +1,4 @@
-# Data Stream Generator for Kafka Messaging Service
+# Data Stream Generator for Kafka Service
 Data generator is a maven application for generating data streams as IoT data events using Apache Kafka producer API. This project is build using following tools and technologies.
 
 - JDK - 1.8
